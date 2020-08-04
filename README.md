@@ -1,4 +1,12 @@
-### Hi there 👋
+# Karina Santos Felippe
+
+Esposa e Mãe | Analista de Sistemas | Desenvolvimento Web
+
+![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe-49886634/)
+
+Conhecimento em JavaScript (ES6), Node.js, ReactJS, C#, HTML e CSS, Scrum, Git
+<br/>Inquieta, apaixonada por estudo, amante do ensino, sempre compartilhando ideias e desenvolvendo novas habilidades.
+
 
 <!--
 **karinasantosfelippe/karinasantosfelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
