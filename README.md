@@ -1,6 +1,6 @@
 # Karina Santos Felippe
 
-Esposa e Mãe | Analista de Sistemas | Desenvolvimento Web
+Esposa e Mãe | Analista de Sistemas | Desenvolvimento Web | Design e Artes por Hobby
 
 ![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe-49886634/)
 
