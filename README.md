@@ -2,7 +2,7 @@
 
 Esposa e Mãe | Analista de Sistemas | Desenvolvimento Web
 
-![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe-49886634/)
+![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe-49886634/)
 
 Conhecimento em JavaScript (ES6), Node.js, ReactJS, C#, HTML 5 e CSS 3, Scrum, Git
 <br/>Inquieta, apaixonada por estudar, amante do ensino e do compartilhamento de conhecimentos, sempre desenvolvendo novas habilidades.
