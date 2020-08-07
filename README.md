@@ -5,6 +5,9 @@ Esposa e Mãe | Analista de Sistemas | Desenvolvimento Web | Design e Artes por 
 [![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe/)](https://www.linkedin.com/in/karina-santos-felippe/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfólio-BF3073?style=flat-square&logo=Behance&logoColor=white&link=https://karinasantosfelippe.myportfolio.com/)](https://karinasantosfelippe.myportfolio.com/)
 
+---
+### Resumo
+
 &nbsp;&nbsp;&nbsp;Conhecimento em JavaScript (ES6), Node.js, ReactJS, C#, HTML 5 e CSS 3, Scrum, Git
 <br/>&nbsp;&nbsp;&nbsp;Sou inquieta, apaixonada por estudar, amante do ensino e do compartilhamento de conhecimentos, e estou sempre desenvolvendo novas habilidades.
 
