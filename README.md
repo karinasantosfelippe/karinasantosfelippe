@@ -3,8 +3,6 @@
 Esposa e Mãe | Desenvolvedora
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karina_Santos_Felippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-santos-felippe/)](https://www.linkedin.com/in/karina-santos-felippe/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-BF3073?style=flat-square&logo=Behance&logoColor=white&link=https://karinasantosfelippe.myportfolio.com/)](https://karinasantosfelippe.myportfolio.com/)
-
 ---
 ### Resumo
 
